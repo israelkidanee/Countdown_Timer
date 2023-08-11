@@ -1,4 +1,3 @@
-# Countdown Timer
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300px"/>
 </div>
@@ -8,3 +7,7 @@
   <a href="https://twitter.com/israelkidane" target= "_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+
+# Countdown Timer
+
+Quick HTML and JS refresher - countdowning till the New Year
